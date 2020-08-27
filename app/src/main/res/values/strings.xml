@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age In Mins Calculator</string>
+    <string name="title">CALCULATE YOUR </string>
+    <string name="title_age">AGE</string>
+    <string name="title_desc">IN MINUTES</string>
+    <string name="btn_calendar">Click to Select Date</string>
+</resources>
